@@ -15,3 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+#Ignore Spring to avoid conflicts between Spring and Git when usind Guard
+/spring/*.pid
