@@ -1,6 +1,4 @@
-# Ruby on Rails Tutorial: sample application
+# Twitter Clone in Ruby on Rails: sample application
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is a sample application that was built for educational purposes.
+It has the basic functionality of Twitter.
